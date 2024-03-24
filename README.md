@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Paul
+I'm currently learning python and Github with Cogrammar on a 16 week bootcamp. I will be using Github more often and I hope to contribute more projects as the course goes on. Your can email me at p_sherlock@yahoo.com  📫
+				<p align="center">	![images](https://github.com/psherlock580/psherlock580/assets/163058894/b80e1e1b-6237-4b86-983f-2fcb0212978d)</p>
+
+
 
 <!--
 **psherlock580/psherlock580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
